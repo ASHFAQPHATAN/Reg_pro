@@ -11,4 +11,4 @@ signup.addEventListener("click", () => {
 login.addEventListener("click", () => {
 	slider.classList.remove("moveslider");
 	formSection.classList.remove("form-section-move");
-});
+}); 
